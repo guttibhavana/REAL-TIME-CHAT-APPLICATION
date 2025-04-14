@@ -39,3 +39,8 @@ For convenience, users can send messages by pressing the "Enter" key or clicking
 Conclusion:
 he Real-Time Chat Application serves as an ideal project for anyone interested in learning full-stack web development. It covers a wide range of essential skills, including frontend development with React, backend server handling with Node.js, and implementation of real-time data flow using WebSockets. The project not only teaches the fundamentals of building a responsive user interface but also dives into more complex concepts like asynchronous data updates and persistent client-server connections.
 This project can be a great addition to a portfolio, showcasing your ability to develop interactive web applications from scratch. With a solid foundation already in place, it can also be expanded with new features such as user authentication, private messaging, chat rooms, and message persistence via a database. Whether used as a learning milestone or a demonstration of your development skills, the Real-Time Chat Application is a meaningful and impressive achievement in the world of web development.
+
+OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/4f2f63cc-a79e-468b-9782-0b74c50576c3)
